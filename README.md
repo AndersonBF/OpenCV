@@ -12,3 +12,7 @@ Nitidez:
 Estilização:
 
 ![Estilização](Imagens/estilização.png)
+
+Exposição:
+
+![Exposição](Imagens/exposição.png)
