@@ -15,7 +15,7 @@ def applySharpening(image, kernel):
     return output_image
 
 # Carregar a imagem
-image = cv2.imread("imagem2.png")
+image = cv2.imread("imagem3.png")
 if image is None:
     print("Erro: A imagem não foi encontrada.")
     exit()
