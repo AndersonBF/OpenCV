@@ -9,4 +9,3 @@ Nitidez:
 
 ![Nitidez](https://github.com/user-attachments/assets/6a414379-a7cc-4d99-853a-f4d9f07c8ae7)
 
-![Exemplo de Imagem](imagem.png)
