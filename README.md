@@ -16,3 +16,7 @@ Estilização:
 Exposição:
 
 ![Exposição](Imagens/exposição.png)
+
+Contraste:
+
+![Contraste](Imagens/contraste.png)
